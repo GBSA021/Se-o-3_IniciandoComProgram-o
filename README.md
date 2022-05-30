@@ -1,2 +1,2 @@
-# Secao3_IniciandoComProgram-o
+# Secao3_IniciandoComProgramacao
 Curso de Web Moderno da Udemy 
